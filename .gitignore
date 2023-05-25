@@ -1,0 +1,10 @@
+*__pycache__/
+*.swp
+
+env/
+venv/
+venv3/
+venv_*/
+.idea
+Digraph*
+.DS_Store
